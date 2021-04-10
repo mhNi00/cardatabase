@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/bazadanychpojazdow.dir/main.cpp.o CMakeFiles/bazadanychpojazdow.dir/Pojazd.cpp.o CMakeFiles/bazadanychpojazdow.dir/Osobowy.cpp.o CMakeFiles/bazadanychpojazdow.dir/baza.cpp.o CMakeFiles/bazadanychpojazdow.dir/Motor.cpp.o  -o bazadanychpojazdow 

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="bazadanychpojazdow"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bazadanychpojazdow">
+				<Option output="/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug/bazadanychpojazdow" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug/Makefile&quot;  VERBOSE=1 bazadanychpojazdow"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bazadanychpojazdow/fast">
+				<Option output="/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug/bazadanychpojazdow" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug/Makefile&quot;  VERBOSE=1 bazadanychpojazdow/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/Motor.cpp">
+			<Option target="bazadanychpojazdow"/>
+		</Unit>
+		<Unit filename="/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/Motor.h">
+			<Option target="bazadanychpojazdow"/>
+		</Unit>
+		<Unit filename="/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/Osobowy.cpp">
+			<Option target="bazadanychpojazdow"/>
+		</Unit>
+		<Unit filename="/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/Osobowy.h">
+			<Option target="bazadanychpojazdow"/>
+		</Unit>
+		<Unit filename="/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/Pojazd.cpp">
+			<Option target="bazadanychpojazdow"/>
+		</Unit>
+		<Unit filename="/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/Pojazd.h">
+			<Option target="bazadanychpojazdow"/>
+		</Unit>
+		<Unit filename="/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/baza.cpp">
+			<Option target="bazadanychpojazdow"/>
+		</Unit>
+		<Unit filename="/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/baza.h">
+			<Option target="bazadanychpojazdow"/>
+		</Unit>
+		<Unit filename="/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/main.cpp">
+			<Option target="bazadanychpojazdow"/>
+		</Unit>
+		<Unit filename="/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

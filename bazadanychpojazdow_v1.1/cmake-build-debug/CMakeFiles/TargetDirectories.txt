@@ -1,0 +1,3 @@
+/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/michau/CLionProjects/bazadanychpojazdow/bazadanychpojazdow/cmake-build-debug/CMakeFiles/bazadanychpojazdow.dir
